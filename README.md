@@ -5,7 +5,7 @@
 <h2> O que aprendi?</h2>
 
 <ui>
-  <li> Como adaptar a pagina web para MOBILE</li>
-  <li>Utilizar o HTML</li>
-  <li>Estilizar a pagina através do CSS</li>
+  <li> Como adaptar a pagina web para MOBILE.</li>
+  <li>Utilizar o HTML.</li>
+  <li>Estilizar a pagina através do CSS.</li>
 </ui>
